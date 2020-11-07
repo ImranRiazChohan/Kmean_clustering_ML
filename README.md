@@ -1,2 +1,2 @@
-# Kmean_clustering_ML
-Kmean_Clustering Applied on iris Dataset 
+# Kmeans_clustering_ML
+Kmeans_Clustering Applied on iris Dataset 
